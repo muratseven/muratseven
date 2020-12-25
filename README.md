@@ -1,8 +1,6 @@
 ### Hi there 👋
 ![ALT TEXT](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-<img src="https://media.giphy.com/media/Ou2hdJ2OT6HCboL3xC/giphy.gif" width="100%">
-
 ### Hi, I'm <a href="https://muratseven.com.tr">Murat</a> 👋🏻‍💻
 
 I'm a 4rd-year Industrial Engineering Student [@Gaziantep University](https://www.gantep.edu.tr/) at Turkey, who interested in programming, entrepreneurship and technological innovation, that has strong learning skills. I would like to create professional value, in accordance with my qualifications, projects and my work experience. <br/>
@@ -26,7 +24,8 @@ I'm a 4rd-year Industrial Engineering Student [@Gaziantep University](https://ww
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 
 #### Technologies
-![Firebase](https://img.shields.io/badge/-Material%20Design-fff?style=flat&logo=material-design&logoColor=blue)
+![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)
+![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
 ![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
