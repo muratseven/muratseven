@@ -17,8 +17,8 @@ I'm a 4rd-year Industrial Engineering Student [@Gaziantep University](https://ww
 - 😄 Pronouns: ... He
 
 #### Languages
-[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]
-[![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)]
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 
