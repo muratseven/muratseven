@@ -1,5 +1,5 @@
 ### Hi there 👋
-[!(https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)]
+![ALT TEXT](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 <!--
