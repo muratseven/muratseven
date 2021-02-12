@@ -8,7 +8,7 @@ I'm a 4rd-year Industrial Engineering Student [@Gaziantep University](https://ww
 [![dev.to badge](https://img.shields.io/badge/-muratseven-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/murat-seven/)
 [![twitter badge](https://img.shields.io/badge/-@murat_sevenn-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/murat_sevenn)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@muratseven.com.tr)](mailto:info@muratseven.com.tr)
-![](https://komarev.com/ghpvc/?username=aboelkassem&color=brightgreen&style=flat)
+![](https://komarev.com/ghpvc/?username=muratseven&color=brightgreen&style=flat)
 
 - :school: I'm currently studing in [Industrial Engineering - Gaziantep University](https://www.gantep.edu.tr/) Turkey
 - 🌱 I’m currently learning Software Principles, Software Architecture and entrepreneurship.
