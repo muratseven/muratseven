@@ -2,7 +2,7 @@
 
 ### Hi, I'm <a href="https://muratseven.com.tr">Murat</a> 👋🏻‍💻
 
-I'm a 4rd-year Industrial Engineering Student [@Gaziantep University](https://www.gantep.edu.tr/) at Turkey, who interested in programming, entrepreneurship and technological innovation, that has strong learning skills. I would like to create professional value, in accordance with my qualifications, projects and my work experience. <br/>
+I'm a 4th-year Industrial Engineering Student [@Gaziantep University](https://www.gantep.edu.tr/) at Turkey, who interested in programming, entrepreneurship and technological innovation, that has strong learning skills. I would like to create professional value, in accordance with my qualifications, projects and my work experience. <br/>
 
 [![twitter badge](https://img.shields.io/badge/-@muratsvn7-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Muratsvn7)
 [![dev.to badge](https://img.shields.io/badge/-muratseven-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/murat-seven/)
