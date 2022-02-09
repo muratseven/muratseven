@@ -2,7 +2,7 @@
 
 ### Hi, I'm <a href="https://muratseven.com.tr">Murat</a> 👋🏻‍💻
 
-I'm a 4th-year Industrial Engineering Student [@Gaziantep University](https://www.gantep.edu.tr/) at Turkey, who interested in programming, entrepreneurship and technological innovation, that has strong learning skills. I would like to create professional value, in accordance with my qualifications, projects and my work experience. <br/>
+I'm a Industrial Engineer from [@Gaziantep University](https://www.gantep.edu.tr/) in Turkey, who interested in programming, entrepreneurship and technological innovation, that has strong learning skills. I would like to create professional value, in accordance with my qualifications, projects and my work experience. <br/>
 
 [![twitter badge](https://img.shields.io/badge/-@muratsvn7-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Muratsvn7)
 [![dev.to badge](https://img.shields.io/badge/-muratseven-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/murat-seven/)
@@ -10,10 +10,9 @@ I'm a 4th-year Industrial Engineering Student [@Gaziantep University](https://ww
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@muratseven.com.tr)](mailto:info@muratseven.com.tr)
 ![](https://komarev.com/ghpvc/?username=muratseven&color=brightgreen&style=flat)
 
-- :school: I'm currently studing in [Industrial Engineering - Gaziantep University](https://www.gantep.edu.tr/) Turkey
+- :school: I'm [Industrial Engineer - Gaziantep University](https://www.gantep.edu.tr/) Turkey
 - 🌱 I’m currently learning Software Principles, Software Architecture and entrepreneurship.
-- 💬 Ask me about ... What ever.... :laughing:
-- 👯 Looking for an internship or opportunity.
+- 💬 Ask me about ... What ever.... : laughing:
 - 😄 Pronouns: ... He
 
 #### Languages
