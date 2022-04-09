@@ -11,7 +11,7 @@ I'm a Industrial Engineer from [@Gaziantep University](https://www.gantep.edu.tr
 ![](https://komarev.com/ghpvc/?username=muratseven&color=brightgreen&style=flat)
 
 - :school: I'm [Industrial Engineer - Gaziantep University](https://www.gantep.edu.tr/) Turkey
-- 👨🏻‍💻I'm Atlassian Technical Consultant | SNAPBYTES
+- 👨🏻‍💻 I'm Atlassian Technical Consultant | SNAPBYTES
 - 🌱 I’m currently learning Software Principles, Software Architecture and entrepreneurship.
 - 💬 Ask me about ... What ever.... : laughing:
 - 😄 Pronouns: ... He
